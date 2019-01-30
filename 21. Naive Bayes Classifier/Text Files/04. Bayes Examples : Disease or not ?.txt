@@ -1,0 +1,3 @@
+Example : Does the patient have disease or not?
+
+A patient takes a lab test and result comes back positive. The test returns a correct +ve in only 98% of the cases in which disease is actually present, a correct -ve result in only 97% of the cases in which disease is not present. Furthermore, 0.008 of the entire population have this disease.
