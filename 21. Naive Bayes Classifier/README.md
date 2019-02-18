@@ -5,3 +5,5 @@
 05. Naive Bayes Classifier - Completed
 06. Naive Bayes - Mushroom Classification Example - Completed
 07. Mushroom Classifer - Handling Categorical Data - Completed
+08. Mushroom Classifier - Prior and Conditional Probability - Completed
+09. Mushroom Classification - Prediction using Posterior Probability - Completed
