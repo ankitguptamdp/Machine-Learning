@@ -6,7 +6,7 @@
 	# y-values we need to assign for each person
 # 2. Read a video stream using opencv
 # 3. Extract faces out of it 
-# 4. Use KNN to find the prediction of face (int)
+# 4. Use KNN to find the prediction of face (int)    
 # 5. Map the predicted id to name of the user
 # 6. Display the predictions on the screen - bounding box and name
 
